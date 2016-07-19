@@ -1,5 +1,5 @@
 # Color-Object-Detection-Demo-using-Aforge
-This is Color Object Detection Demo using Aforge...-
+This is Color Object Detection Demo using Aforge...
 
 
 
